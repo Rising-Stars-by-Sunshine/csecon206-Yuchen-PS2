@@ -33,7 +33,7 @@ Note: please insert the screenshot of the answers to your research question by C
 - headshot
 - self-introduction
 
-Yuchen Song is a sophomore student majored in Computation and Design with tracks in Computer Science at DKU, who is intereted in the intersection between Computer Science and other subjects.
+  Yuchen Song is a sophomore student majored in Computation and Design with tracks in Computer Science at DKU, who is intereted in the intersection between Computer Science and other subjects.
 
 
 ### References
