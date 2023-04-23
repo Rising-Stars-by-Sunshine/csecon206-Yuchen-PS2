@@ -1,4 +1,4 @@
-# # [Problem Set 2: Decipher Game Theory](https://www.nature.com/articles/s41562-021-01152-2)
+# # Problem Set 2: Decipher Game Theory
 ## Project information
 - **Author**: Yuchen Song, Computation and Design with tracks in Computer Science, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
