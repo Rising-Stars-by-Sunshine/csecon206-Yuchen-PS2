@@ -22,12 +22,10 @@ Note: please insert the screenshot of the answers to your research question by C
 - This project has two parts. The first part is the introduction of some important concepts in Game Theory. In the Overleaf file, the project first summarizes the milestones in Game Theory. Then, it provides the definition, theorem, and proof of Bayesian Nash Equilibrium and some basic discussion about the concepts. Finally, it shows the definition of several important glossaries in Game Theory by citing the original publication. The second part is the simulation of two games in the .ipynb file. The first game is the Chicken Game, which is a classical normal/strategic form matrix game. By using the Python package Nashpy, the project calculates and elaborates the mixed and pure Nash Equilibrium of the game. The second game is the Ultimatum game, which is a typical extensive form game. By using the website Game Theory Explorer, the project generates and discusses strategies.
 
 ### Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+- Based on the simulation of two games, and the elaboration of their solutions, here are some limitations of the Nash Equilibrium: 
+1.	In some games, Nash Equilibrium may not always exist, and in some games, there are several Nash Equilibrium, which is difficult for analysis and predictions. For instance, in Chicken Game, there are three Equilibriums, two are pure strategies and one is mixed strategies. 
+2.	Nash Equilibrium assumes that participants are completely rational. However, in real-world scenarios, players cannot perfectly calculate their opponents’ strategies. It may be because of their lack of mathematical ability and the influence of some behavioral, cultural, and other factors. For example, in Chicken Game, to achieve pure strategies, one player should choose to avoid risks, and the other should choose to maximize profits. However, in real situations, participants’ strategies are dynamic and can be influenced by their opponent’s decisions.
+
 
 ### More about the Author
 - headshot
