@@ -32,10 +32,8 @@ Note: please insert the screenshot of the answers to your research question by C
 ### More about the Author
 - headshot
 - self-introduction
-- Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
+Yuchen Song is a sophomore student majored in Computation and Design with tracks in Computer Science at DKU, who is intereted in the intersection between Computer Science and other subjects.
+
 
 ### References
 
