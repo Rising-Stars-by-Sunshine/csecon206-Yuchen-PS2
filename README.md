@@ -14,23 +14,12 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ## Table of Contents
 
-- model
-- code
+- structure
 - spotlight
 - more about the author
-- references
 
-### Model
-- Game Environment
-- Solution Concept
-- Evaluations: e.g. efficiency and fairness
-
-### Code
-- Game Environment
-- Strategic plays
-- Equilibruim Evaluations: e.g. belief, strategy, and payoffs
-- oTree Experimental Code 
-
+### Structure
+- This project has two parts. The first part is the introduction of some important concepts in Game Theory. In the Overleaf file, the project first summarizes the milestones in Game Theory. Then, it provides the definition, theorem, and proof of Bayesian Nash Equilibrium and some basic discussion about the concepts. Finally, it shows the definition of several important glossaries in Game Theory by citing the original publication. The second part is the simulation of two games in the .ipynb file. The first game is the Chicken Game, which is a classical normal/strategic form matrix game. By using the Python package Nashpy, the project calculates and elaborates the mixed and pure Nash Equilibrium of the game. The second game is the Ultimatum game, which is a typical extensive form game. By using the website Game Theory Explorer, the project generates and discusses strategies.
 
 ### Spotlight
 - Posters
