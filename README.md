@@ -30,15 +30,16 @@ Note: please insert the screenshot of the answers to your research question by C
 
 - The Chicken game is a model of conflict between risk-taking and risk-avoidance of two players. One of the classical game scenarios is when two drivers drive toward each other, each can choose to swerve or straight. If one of them chooses to swerve and the other chooses to straight, the former one will be seen as chickening out and will receive a lower payoff (2), while the latter one will receive a higher payoff (7) since he’s braver. If both choose to swerve, it will be a tie, and both receive a moderate payoff (6). While, if both players choose to straight, they will crash into each other, and receives no payoff (0), since they fail to avoid the risk.
 
-![image]()
+![image](https://github.com/Rising-Stars-by-Sunshine/csecon206-Yuchen-PS2/blob/main/code/Chicken%20Game.JPG)
 
 - The rule of the ultimatum game is that one player, the proposer has some endowment. The proposer then needs to split the money with another player, the responder, who knows the total amount of the money. Then the responder can accept the proposal or reject it. If the responder accepts, the payoff is the same as the proposal. However, if the responder rejects, both receive nothing. And both players know the rule of the game in advance.
 
-![image]()
+![image](https://github.com/Rising-Stars-by-Sunshine/csecon206-Yuchen-PS2/blob/main/code/Game%20tree.JPG)
 
 Reflection
 
 - Based on the simulation of two games, and the elaboration of their solutions, here are some limitations of the Nash Equilibrium: 
+
 1.	In some games, Nash Equilibrium may not always exist, and in some games, there are several Nash Equilibrium, which is difficult for analysis and predictions. For instance, in Chicken Game, there are three Equilibriums, two are pure strategies and one is mixed strategies. 
 
 2.	Nash Equilibrium assumes that participants are completely rational. However, in real-world scenarios, players cannot perfectly calculate their opponents’ strategies. It may be because of their lack of mathematical ability and the influence of some behavioral, cultural, and other factors. For example, in Chicken Game, to achieve pure strategies, one player should choose to avoid risks, and the other should choose to maximize profits. However, in real situations, participants’ strategies are dynamic and can be influenced by their opponent’s decisions.
@@ -48,6 +49,9 @@ Reflection
 
 ### More about the Author
 - headshot
+
+![image](https://github.com/Rising-Stars-by-Sunshine/csecon206-Yuchen-PS2/blob/main/code/headshot%20(1).jpg)
+
 - self-introduction
 
   Yuchen Song is a sophomore student majored in Computation and Design with tracks in Computer Science at DKU, who is intereted in the intersection between Computer Science and other subjects.
