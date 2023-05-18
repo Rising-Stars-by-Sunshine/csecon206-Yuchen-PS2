@@ -24,15 +24,25 @@ Note: please insert the screenshot of the answers to your research question by C
 ### Spotlight
 [Game theory reflection and exploration in Overleaf](https://github.com/Rising-Stars-by-Sunshine/csecon206-Yuchen-PS2/blob/main/code/CSECON206_ProblemSet2_Spring2023_Yuchen%20(1).pdf)
 
-The Overleaffile, includes the introduction of Game Theory history, some important formula, definitions, theorems and proofs of Bayesian Nash Equilibrium, and Game Theory Glossary Table.
+- The Overleaf file, includes the introduction of Game Theory history, some important formula, definitions, theorems and proofs of Bayesian Nash Equilibrium, and Game Theory Glossary Table.
 
-[Normal and extensive form games in Colab]()
+[Normal and extensive form games in Colab](https://github.com/Rising-Stars-by-Sunshine/csecon206-Yuchen-PS2/blob/main/code/normal_strategic_form_matrix_game_%26_extensive_form_game.ipynb)
+
+- The Chicken game is a model of conflict between risk-taking and risk-avoidance of two players. One of the classical game scenarios is when two drivers drive toward each other, each can choose to swerve or straight. If one of them chooses to swerve and the other chooses to straight, the former one will be seen as chickening out and will receive a lower payoff (2), while the latter one will receive a higher payoff (7) since he’s braver. If both choose to swerve, it will be a tie, and both receive a moderate payoff (6). While, if both players choose to straight, they will crash into each other, and receives no payoff (0), since they fail to avoid the risk.
+
+![image]()
+
+- The rule of the ultimatum game is that one player, the proposer has some endowment. The proposer then needs to split the money with another player, the responder, who knows the total amount of the money. Then the responder can accept the proposal or reject it. If the responder accepts, the payoff is the same as the proposal. However, if the responder rejects, both receive nothing. And both players know the rule of the game in advance.
+
+![image]()
 
 Reflection
 
 - Based on the simulation of two games, and the elaboration of their solutions, here are some limitations of the Nash Equilibrium: 
 1.	In some games, Nash Equilibrium may not always exist, and in some games, there are several Nash Equilibrium, which is difficult for analysis and predictions. For instance, in Chicken Game, there are three Equilibriums, two are pure strategies and one is mixed strategies. 
+
 2.	Nash Equilibrium assumes that participants are completely rational. However, in real-world scenarios, players cannot perfectly calculate their opponents’ strategies. It may be because of their lack of mathematical ability and the influence of some behavioral, cultural, and other factors. For example, in Chicken Game, to achieve pure strategies, one player should choose to avoid risks, and the other should choose to maximize profits. However, in real situations, participants’ strategies are dynamic and can be influenced by their opponent’s decisions.
+
 3.	Nash Equilibrium does not consider the possibility of cooperation between players. In some games, if players can cooperate with their opponents, they can reach better payoffs, and avoid the risk of retaliation for the annoying decisions. For example, in the Ultimatum game, the Subgame Perfect Nash Equilibrium suggests the payoff of 8 and 2 for players A and B separately, which assumes that Player A is self-interested and won’t choose to equally distribute the money (payoff of 5 and 5). However, if A makes an unfair decision, in real-world situations, B may choose to retaliate, which may lead to 0 payoff for both.
 
 
