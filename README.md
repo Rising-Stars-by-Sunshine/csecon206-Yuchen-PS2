@@ -23,7 +23,8 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Spotlight
 [Game theory reflection and exploration in Overleaf](https://github.com/Rising-Stars-by-Sunshine/csecon206-Yuchen-PS2/blob/main/code/CSECON206_ProblemSet2_Spring2023_Yuchen%20(1).pdf)
-In the Overleaf.zip file, some concepts including history of Game Theory, some important formula of Bayesian Nash Equilibrium, and some glossaries are introduced.
+
+The Overleaffile, includes the introduction of Game Theory history, some important formula, definitions, theorems and proofs of Bayesian Nash Equilibrium, and Game Theory Glossary Table.
 
 [Normal and extensive form games in Colab]()
 
