@@ -23,8 +23,11 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Spotlight
 [Game theory reflection and exploration in Overleaf]()
+
 [Normal and extensive form games in Colab]()
+
 Reflection
+
 - Based on the simulation of two games, and the elaboration of their solutions, here are some limitations of the Nash Equilibrium: 
 1.	In some games, Nash Equilibrium may not always exist, and in some games, there are several Nash Equilibrium, which is difficult for analysis and predictions. For instance, in Chicken Game, there are three Equilibriums, two are pure strategies and one is mixed strategies. 
 2.	Nash Equilibrium assumes that participants are completely rational. However, in real-world scenarios, players cannot perfectly calculate their opponents’ strategies. It may be because of their lack of mathematical ability and the influence of some behavioral, cultural, and other factors. For example, in Chicken Game, to achieve pure strategies, one player should choose to avoid risks, and the other should choose to maximize profits. However, in real situations, participants’ strategies are dynamic and can be influenced by their opponent’s decisions.
